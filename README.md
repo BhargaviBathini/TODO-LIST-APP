@@ -1,5 +1,6 @@
 D:\MYAPPS\my_first_app
-flutter run
+flutter run - to run
+flutter pub get - to install all dependencies
 # flutter_application_1
 
 A new Flutter project.
